@@ -1,1 +1,1 @@
-# pierwszy-klon
+# nauka-gita-2
